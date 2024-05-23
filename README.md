@@ -1,1 +1,1 @@
-# DogVSCat-
+# DogVSCat-classification
